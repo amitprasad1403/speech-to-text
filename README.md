@@ -20,3 +20,6 @@ A simple and intuitive web application that converts speech to text, built using
 * react-speech-recognition: A React Hook that converts speech from the microphone to text.
 * react-use-clipboard: A React Hook that provides an easy way to copy text to the clipboard.
 
+## App preview
+![image](https://github.com/amitprasad1403/speech-to-text/blob/main/STT.png)
+![image](https://github.com/amitprasad1403/speech-to-text/blob/main/STT1.png)
